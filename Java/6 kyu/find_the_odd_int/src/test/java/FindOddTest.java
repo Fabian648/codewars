@@ -3,6 +3,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import java.util.*;
 
+
 public class FindOddTest {
     private static void doTest(int[] input, int expected) {
         String message = String.format("for array = %s\n", Arrays.toString(input));
