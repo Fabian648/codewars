@@ -29,7 +29,7 @@ public class Scramblies {
      * Link-Aufgabe: https://www.codewars.com/kata/55c04b4cc56a697bb0000048
      * Link-Aufgaben Ersteller: https://www.codewars.com/users/joh_pot
      * */
-    
+
     public static boolean scramble(String str1, String str2) {
         int[] counts = new int[26];
 
