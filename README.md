@@ -12,7 +12,7 @@ Die Aufgaben sind nach Programmiersprache und Schwierigkeit (Kyu) sortiert.
 - Die Lösungen sind mein eigener Ansatz – es gibt oft mehrere mögliche Wege.
 
 ## 🧩 Profil
-🔗 Mein Codewars-Profil: https://www.codewars.com/users/Fabian648
+🔗 Mein Codewars-Profil: https://www.codewars.com/users/Fabi0406
 
 ---
 
