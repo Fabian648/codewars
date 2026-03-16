@@ -1,0 +1,12 @@
+package de.fabian648;
+
+import java.util.List;
+
+
+public class ObservedPin {
+
+    public static List<String> getPINs(String observed) {
+        return null;
+    } // getPINs
+
+} // ObservedPin
