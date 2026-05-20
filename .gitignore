@@ -1,0 +1,48 @@
+# ====================================================================
+# Globale / Betriebssystem-spezifische Dateien
+# ====================================================================
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# ====================================================================
+# IntelliJ IDEA (für alle Unterprojekte)
+# ====================================================================
+# Ignoriert den .idea-Ordner in jedem Unterprojekt komplett
+**/.idea/
+*.iws
+*.iml
+*.ipr
+out/
+**/out/
+
+# Ausnahme (optional): Wenn du gemeinsame Code-Styles oder Run-Configurations 
+# im Team teilen willst, kommentiere die folgenden Zeilen aus:
+# !**/.idea/runConfigurations/
+# !**/.idea/codeStyles/
+
+# ====================================================================
+# Java Build-Tools (Solltest du Maven oder Gradle nutzen)
+# ====================================================================
+
+# Maven
+**/target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Gradle
+**/.gradle/
+**/build/
+!**/src/main/**/build/
+
+# ====================================================================
+# Crash Dumps & Speicher-Snapshots
+# ====================================================================
+*.hprof
